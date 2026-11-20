@@ -12,8 +12,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learnin
 🛠️ Technologies & Tools
 
 🤝 Let's Connect!
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6e24233f-8c19-48f3-8108-472697620ba5" />
-abdelrahmanmohamed11077@gmail.com
+✉ abdelrahmanmohamed11077@gmail.com
 
 I'm always interested in connecting with developers, AI enthusiasts, and people who love technology.
 
