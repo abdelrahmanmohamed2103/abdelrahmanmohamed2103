@@ -1,21 +1,21 @@
 👋 Hey there, I'm Abdelrahman Mohamed!
 
 <h3 align="center">
-🤖 AI & Machine Learning Developer | 🧠 Deep Learning Enthusiast | 🚀 Lifelong Learner
+AI & Machine Learning Developer |  Deep Learning Enthusiast |  Lifelong Learner
 </h3>
 
 <p align="center">
 <i>"Turning data into intelligence, and ideas into reality."</i>
 </p>
 
-🧑‍💻 About Me
-🤖 Passionate about Artificial Intelligence & Machine Learning
-🐍 Exploring the power of Python and its AI ecosystem
-📊 Interested in Data Science, Data Analysis & Data Visualization
-🧠 Exploring Deep Learning, Neural Networks & Intelligent Systems
-🚀 Constantly learning, experimenting, and building cool things
-💡 Driven by curiosity and a passion for solving real-world problems
-⚡ Tech Stack & Tools
+About Me
+ - Passionate about Artificial Intelligence & Machine Learning
+ - Exploring the power of Python and its AI ecosystem
+ - Interested in Data Science, Data Analysis & Data Visualization
+ - Exploring Deep Learning, Neural Networks & Intelligent Systems
+ - Constantly learning, experimenting, and building cool things
+ - Driven by curiosity and a passion for solving real-world problems
+ - Tech Stack & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter" />
