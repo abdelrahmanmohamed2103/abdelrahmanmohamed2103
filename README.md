@@ -1,4 +1,4 @@
-👋 Hi, I'm an AI & Machine Learning Developer!
+👋 Hi, My name is abdelrahman, I'm an AI & Machine Learning Developer!
 🤖 Turning Data into Intelligence, One Model at a Time.
 
 I'm passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring intelligent technologies, solving real-world problems, and building projects that turn ideas into reality.
