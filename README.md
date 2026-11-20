@@ -41,27 +41,6 @@ Currently Exploring:
 💬 Always happy to connect with developers, AI enthusiasts, and tech lovers. Let's learn and build something awesome together!
 
 🐍 A Little More About My Journey
-python
-class Abdelrahman:
-    def __init__(self):
-        self.name = "Abdelrahman Mohamed"
-        self.role = "AI & Machine Learning Developer"
-        self.languages = ["Python"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Science"
-        ]
-        self.motto = "Never stop learning!"
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! 🚀")
-
-
-me = Abdelrahman()
-me.say_hi()
-
 
 <p align="center">
 <b>⭐ Thanks for stopping by!</b>
@@ -72,3 +51,7 @@ me.say_hi()
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
+
+
+
